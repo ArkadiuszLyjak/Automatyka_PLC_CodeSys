@@ -1,0 +1,7 @@
+Proszê napisaæ i przes³aæ do mnie program, który wartoœæ wewnêtrznej zmiennej liczbowej bêdzie automatycznie, co jedn¹ sekundê zmienia³ wg sekwencji:
+
+0, 1, 2, 3, 4, 5, 6, 7, 6, 5, 4, 3, 2, 1, 0, 1, 2, 3, ......idt (czyli kolejne zwiêkszanie i zmniejszanie wartoœci).
+Wartoœci skrajne nie musz¹ trwaæ 1 sekundê.
+
+Je¿eli przyjmiemy, ¿e wzrost wartoœci od zera i spadek znów do zera stanowi jeden cykl,
+to program powinien "na rozkaz" (pod wp³ywem sygna³u wejœciowego) generowaæ okreœlon¹ liczbê (np. 4) cykli zmian (np. 012345676543210123456765432101234567654321012345676543210).

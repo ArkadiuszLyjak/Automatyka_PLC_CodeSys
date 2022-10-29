@@ -1,0 +1,4 @@
+Sterowanie wyœwietlaczem 7-mio segmentowym. Maj¹ siê wyœwietlaæ co 2 sekundy cyfry 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 0, 1, 2, .......... i tak w kó³ko. Poszczególnymi segmentami wyœwietlacza sterujemy poprzez wyjœcia w sterowniku np. Q1, Q2, Q3, Q4, Q5, Q6, Q7.
+ _
+|_|
+|_|
